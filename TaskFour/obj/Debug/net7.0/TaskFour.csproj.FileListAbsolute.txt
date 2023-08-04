@@ -1,0 +1,15 @@
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.csproj.AssemblyReference.cache
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.AssemblyInfoInputs.cache
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.AssemblyInfo.cs
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.csproj.CoreCompileInputs.cache
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/bin/Debug/net7.0/TaskFour
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/bin/Debug/net7.0/TaskFour.deps.json
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/bin/Debug/net7.0/TaskFour.runtimeconfig.json
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/bin/Debug/net7.0/TaskFour.dll
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/bin/Debug/net7.0/TaskFour.pdb
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.dll
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/refint/TaskFour.dll
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.pdb
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/TaskFour.genruntimeconfig.cache
+/Users/Vlad/GeekBrains/СSharpLern/HomeworkCSharp/TaskFour/obj/Debug/net7.0/ref/TaskFour.dll
